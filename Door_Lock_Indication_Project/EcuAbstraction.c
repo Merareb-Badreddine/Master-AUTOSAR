@@ -8,9 +8,7 @@
 //		Door Lock indication Project
  ******************************************************************************
  */
-//Learn-in-depth
-//Keroles Shenouda
-//AUTOSAR Course (learn-in-depth.com)
+
 
 //include RTE Application Header
 #include "RTE_gen/Rte_DoorSensorAbstractionSWC.h"
